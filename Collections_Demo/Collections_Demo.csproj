@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArrayList_Demo.cs" />
     <Compile Include="Array_Demo.cs" />
+    <Compile Include="Dictionary_Demo.cs" />
     <Compile Include="List_Demo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
